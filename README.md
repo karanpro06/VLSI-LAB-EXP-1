@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To simulate and synthesis Logic Gates,Adders and Subtractor using Xilinx ISE.
+To simulate and synthesis Logic Gates,Adders and Subtractor using Vivado 2023.2.
 
 **APPARATUS REQUIRED:** 
 
@@ -190,5 +190,5 @@ endmodule
 
 **RESULT:**
 
- Hence Logic Gates,Adders and Subtractor are simulated and synthesised using Xilinx ISE.
+ Hence Logic Gates,Adders and Subtractor are simulated and synthesised using Vivado 2023.2.
 
