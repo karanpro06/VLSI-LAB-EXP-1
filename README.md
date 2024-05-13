@@ -57,7 +57,7 @@ not(notgate,a);
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![image](https://github.com/DSVishal0407/VLSI-LAB-EXP-1/assets/163637297/b06bb643-591f-418c-bae7-6654d045421d)
 
@@ -78,7 +78,7 @@ and g2(carry,a,b);
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![WhatsApp Image 2024-03-16 at 2 29 54 PM](https://github.com/DSVishal0407/VLSI-LAB-EXP-1/assets/163637297/e5d6a25e-29d3-4a01-bfc8-cd357f8f602a)
 
@@ -99,7 +99,7 @@ and g2(borrow,~a,b);
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![WhatsApp Image 2024-03-16 at 2 30 02 PM](https://github.com/DSVishal0407/VLSI-LAB-EXP-1/assets/163637297/4076f4a5-bb76-4b15-adfa-08297419da6f)
 
@@ -124,7 +124,7 @@ or g5(carry,w3,w2);
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![WhatsApp Image 2024-03-16 at 2 30 02 PM (1)](https://github.com/DSVishal0407/VLSI-LAB-EXP-1/assets/163637297/28c49453-cfc3-4d91-b3b1-5b31ef431325)
 
@@ -149,7 +149,7 @@ or g5(bout,w2,w3);
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![WhatsApp Image 2024-03-16 at 2 29 54 PM (1)](https://github.com/DSVishal0407/VLSI-LAB-EXP-1/assets/163637297/4fe3f468-d4ba-4c14-8b6c-6d1afa01294c)
 
@@ -190,7 +190,7 @@ assign cout=((a&b)|(b&cin)|(a&cin));
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![WhatsApp Image 2024-03-16 at 2 29 55 PM](https://github.com/DSVishal0407/VLSI-LAB-EXP-1/assets/163637297/0b646151-9904-41d3-8396-40ac70a2d750)
 
