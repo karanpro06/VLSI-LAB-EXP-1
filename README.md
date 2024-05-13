@@ -188,6 +188,8 @@ endmodule
 
 ![WhatsApp Image 2024-03-16 at 2 29 55 PM](https://github.com/DSVishal0407/VLSI-LAB-EXP-1/assets/163637297/0b646151-9904-41d3-8396-40ac70a2d750)
 
+
+
 **RESULT:**
 
  Hence Logic Gates,Adders and Subtractor are simulated and synthesised using Vivado 2023.2.
