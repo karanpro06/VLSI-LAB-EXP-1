@@ -63,7 +63,7 @@ endmodule
 
 **HALF ADDER:**
 
-**LOGIC DIAGRAM**
+**LOGIC DIAGRAM:**
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/0e1ecb96-0c25-4556-832b-aeeedfdfe7b9)
 
